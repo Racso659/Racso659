@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Oscar!
+<div align="center"><h1 style="font-size: 2.5em;">👋 Hello There, I'm Oscar! 🚀</h1> </div>
 
 I'm a passionate **Software Developer** with a knack for building robust, scalable, and user-friendly applications. I love solving problems, learning new technologies, and creating tools that make a difference.
 
@@ -20,10 +20,6 @@ I’m proficient in a variety of programming languages, frameworks, and tools th
 | Java                | React                 | Agile Methodologies  |
 | Python              | Bootstrap             | MySQL                |
 
-### 🎨 Design & Development Skills
-- **Web Development**: Building responsive, dynamic websites with a focus on performance and scalability.
-- **Web Design**: Creating visually appealing, user-centric interfaces emphasizing UX and modern design principles.
-- **Tools**: Experienced with Figma and Adobe XD for prototyping and design workflows.
 
 ### 🔧 Tech Stack Icons
 Here’s a visual showcase of the technologies I work with:
@@ -51,6 +47,10 @@ Here’s a visual showcase of the technologies I work with:
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" width="40" height="40"/></a>
 </p>
 
+### 🎨 Design & Development Skills
+- **Web Development**: Building responsive, dynamic websites with a focus on performance and scalability.
+- **Web Design**: Creating visually appealing, user-centric interfaces emphasizing UX and modern design principles.
+- **Tools**: Experienced with Figma and Adobe XD for prototyping and design workflows.
 <!-- Optional Skills Banner -->
 <!-- ![Skills Banner](https://via.placeholder.com/600x150.png?text=My+Tech+Stack) -->
 ---
@@ -83,6 +83,7 @@ Here’s a visual showcase of the technologies I work with:
 The first time I interacted with code was at age 7, playing Minecraft! I wanted to get it for free and started tinkering with mods—editing them sparked my curiosity, and the rest is history. When I'm not coding, you can find me hiking through nature, gaming, or traveling to explore new places.
 
 <!-- ![Coding Gif](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  -->
+
 ![Coding Gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExams4OHpnOG85NmdsNm1zZ3p4bDkzOWxnNjV2Yjg5dXpyYWZkMzRzcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HBDT4QSTpveU/giphy.gif) 
 
 ---
